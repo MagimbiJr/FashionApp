@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">FashionApp</string>
+    <string name="app_name">Trending</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation_drawer</string>
+    <string name="search">Search</string>
+    <string name="shopping_cart">Shopping cart</string>
 </resources>
